@@ -1,4 +1,10 @@
+<script setup>
+import { withBase } from 'vitepress'
+</script>
+
 # OpenARI
+
+<img class="openari-logo" :src="withBase('/brand/openari-logo-web.png')" alt="OpenARI mosaic logo: overlapping photo and filmstrip with a checkmark" width="582" height="496" fetchpriority="high">
 
 Independent open-source tools for Apple Reference Image.
 
