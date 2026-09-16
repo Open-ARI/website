@@ -1,6 +1,6 @@
 # Capture SDK research
 
-[OpenARI Capture](https://github.com/open-ari/openari-capture) is a separate
+[OpenARI Capture](https://github.com/open-ari/open-ari-capture) is a separate
 research repository for capture signing on independent cameras and embedded
 devices. The plan starts with a Raspberry Pi experiment and defines an
 integration path for camera manufacturers.
@@ -34,10 +34,10 @@ the truth of a scene or rule out photographing a screen.
 
 ## Follow the work
 
-- [Architecture and integration](https://github.com/open-ari/openari-capture/blob/main/docs/architecture.md)
-- [Trust and privacy](https://github.com/open-ari/openari-capture/blob/main/docs/trust-model.md)
-- [Profile and API versioning](https://github.com/open-ari/openari-capture/blob/main/docs/versioning.md)
-- [Raspberry Pi experiment](https://github.com/open-ari/openari-capture/blob/main/examples/raspberry-pi/README.md)
-- [Manufacturer integration](https://github.com/open-ari/openari-capture/blob/main/docs/manufacturer-integration.md)
-- [Implementation issues](https://github.com/open-ari/openari-capture/issues)
-- [Milestones](https://github.com/open-ari/openari-capture/milestones)
+- [Architecture and integration](https://github.com/open-ari/open-ari-capture/blob/main/docs/architecture.md)
+- [Trust and privacy](https://github.com/open-ari/open-ari-capture/blob/main/docs/trust-model.md)
+- [Profile and API versioning](https://github.com/open-ari/open-ari-capture/blob/main/docs/versioning.md)
+- [Raspberry Pi experiment](https://github.com/open-ari/open-ari-capture/blob/main/examples/raspberry-pi/README.md)
+- [Manufacturer integration](https://github.com/open-ari/open-ari-capture/blob/main/docs/manufacturer-integration.md)
+- [Implementation issues](https://github.com/open-ari/open-ari-capture/issues)
+- [Milestones](https://github.com/open-ari/open-ari-capture/milestones)

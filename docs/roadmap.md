@@ -14,7 +14,7 @@ criteria](https://github.com/open-ari/open-ari-core/blob/main/docs/roadmap.md).
 ## Independent capture research
 
 [OpenARI Capture](capture.md) has its own
-[milestones and issues](https://github.com/open-ari/openari-capture/milestones)
+[milestones and issues](https://github.com/open-ari/open-ari-capture/milestones)
 covering profile design, a software-asserted Pi experiment, manufacturer hardware,
 optional CLI/SDK integration, and release review. It does not generate Apple ARI
 attestations and is not a dependency of the Apple verification roadmap.
