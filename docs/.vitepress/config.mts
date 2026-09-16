@@ -22,7 +22,7 @@ export default defineConfig({
         { text: 'Roadmap', link: '/roadmap' }
       ]},
       { text: 'Using OpenARI', items: [
-        { text: 'arictl CLI', link: '/cli' },
+        { text: 'openari CLI', link: '/cli' },
         { text: 'Language SDKs', link: '/sdks' },
         { text: 'Image uploads', link: '/uploads' },
         { text: 'Cryptography and security', link: '/security' },
