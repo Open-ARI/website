@@ -1,9 +1,22 @@
-# OpenARI.org
+<p align="center">
+  <a href="https://openari.org"><img src="docs/public/brand/openari-avatar.png" alt="OpenARI mosaic logo" width="128" height="128"></a>
+</p>
 
-<p><a href="https://openari.org"><img src="docs/public/brand/openari-avatar.png" alt="OpenARI mosaic logo" width="192" height="192"></a></p>
+<h1 align="center">OpenARI.org</h1>
 
-Documentation for the OpenARI project. Built with VitePress. The site describes
-current limits as well as planned work.
+<p align="center">
+  Documentation for the OpenARI project.
+</p>
+
+<p align="center">
+  <a href="https://github.com/open-ari/website/actions/workflows/ci.yml"><img src="https://github.com/open-ari/website/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI status"></a>
+  <a href="https://github.com/open-ari/website/actions/workflows/pages.yml"><img src="https://github.com/open-ari/website/actions/workflows/pages.yml/badge.svg?branch=main" alt="GitHub Pages deployment status"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/open-ari/website" alt="Apache 2.0 license"></a>
+  <a href="https://openari.org"><img src="https://img.shields.io/badge/docs-openari.org-007D79" alt="OpenARI documentation"></a>
+  <a href="https://github.com/sponsors/shoon"><img src="https://img.shields.io/badge/Sponsor-shoon-EA4AAA?logo=githubsponsors&amp;logoColor=white" alt="Sponsor shoon on GitHub"></a>
+</p>
+
+The site is built with VitePress and describes current limits as well as planned work.
 
 The approved logo and editable CorelDRAW source live in `docs/public/brand/`.
 See [logo and artwork](https://openari.org/brand) for downloads and licensing.
