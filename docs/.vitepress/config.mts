@@ -38,6 +38,7 @@ export default defineConfig({
       { text: 'Using OpenARI', items: [
         { text: 'openari CLI', link: '/cli' },
         { text: 'Language SDKs', link: '/sdks' },
+        { text: 'Capture SDK research', link: '/capture' },
         { text: 'Image uploads', link: '/uploads' },
         { text: 'Cryptography and security', link: '/security' },
         { text: 'Version support', link: '/versions' }
