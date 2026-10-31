@@ -12,8 +12,10 @@ OpenARI is building a common verification engine for image upload services,
 forensic tools, and language libraries. Applications should be able to verify
 supported evidence locally, with explicit trust policy and resource limits.
 
-**Current status:** development scaffold. No Apple ARI revision is supported.
-The CLI can report preliminary container hints; it cannot authenticate images.
+**Current status:** pre-specification development. No Apple ARI revision is
+supported because Apple has not published the file format, keys, or revocation
+list. The CLI can list image file structure, and the engine includes a tested
+composite signature primitive. It cannot authenticate images.
 
 Start with [compatibility and status](status.md), the [CLI](cli.md), or the
 [implementation roadmap](roadmap.md).

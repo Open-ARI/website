@@ -8,6 +8,10 @@
 6. Add authenticated updates, measured acceleration, and production release review.
 7. Consider a local sidecar and separately specified operator-signed receipts.
 
+As of 2026-10-31, step 1 is complete. Step 2 is blocked on Apple publishing a
+format profile and samples. Work on steps 3 and 4 has started with structure
+listings and a composite signature primitive that do not depend on Apple data.
+
 Dates depend on evidence and review. See the [detailed milestones and acceptance
 criteria](https://github.com/open-ari/open-ari-core/blob/main/docs/roadmap.md).
 

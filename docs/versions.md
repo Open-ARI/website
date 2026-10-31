@@ -1,7 +1,10 @@
 # Version support
 
 Apple format revisions, OpenARI package releases, C ABI, report schemas, policies,
-and trust-data generations have separate versions. The project does not assign
+trust-data generations, and cryptographic profiles have separate versions. The
+structure report (schema 1) is versioned separately from the verification
+report (schema 1). The composite signature primitive follows IETF draft
+revision 13; a later draft or RFC would be a new profile. The project does not assign
 Apple version numbers before the format defines them.
 
 Future confirmed revisions can coexist in the engine. Detection selects an exact
