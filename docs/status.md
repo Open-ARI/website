@@ -7,6 +7,7 @@ Last reviewed: 2026-10-31.
 | Preliminary JPEG/TIFF prefix hints | Yes; not structural validation |
 | JPEG, TIFF/DNG, and ISOBMFF/HEIC structure listing | Yes; bounded and fuzzed. Not ARI detection |
 | Composite ML-DSA-87 + RSA-3072-PSS signature check | Yes, as a library primitive tested against IETF vectors. Not connected to verification |
+| RFC 3161 timestamp token check (ECDSA P-256) | Yes, against a caller-supplied certificate. No path validation. Not connected to verification |
 | Versioned JSON reports | Experimental: verification schema 1, structure schema 1 |
 | C interface | Experimental ABI 1 |
 | Apple ARI revision detection | No |
